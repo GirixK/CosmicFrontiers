@@ -337,7 +337,7 @@ ServerEvents.recipes(event => {
                 P: `ars_nouveau:archwood_planks`,
                 S: `ars_nouveau:archwood_slab`,
                 K: `forge:tools/knives`,
-                W: `#forge:tools/shovels`
+                W: `minecraft:tools/shovels`
             })
     }
     //CHEST-BOAT
